@@ -4,7 +4,7 @@
 
 ***RA - 2042471***
 
-**Curso: ADS - Turma C**
+**Curso: ADS - 1° Turma C**
 
 ## 1° Cenário: Sistema de Gestão de Estoque para uma Loja de Eletrônicos 
 **Descrição do Escopo:**
