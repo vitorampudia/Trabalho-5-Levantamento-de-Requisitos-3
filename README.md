@@ -120,4 +120,4 @@ saúde e bem-estar
 
 ### Processos utilizados para o levantamento de requisitos:
 
-**
+*Para levantar os requisitos necessários para um bom desenvolvimento do sistemas, foram enviados em massa, qustionários, a possíveis consumidores do aplicativo. Para ter ciência de suas expectativas, e que o produto final, esteja ao máximo alinhado com as mesmas. Além do mais, o brainstorme atmbém foi fundamental para poder expressar as ideias e potenciais melhorias ao aplicativo. Foi observado também, a funcionalidade de outros aplicativos que possuem o mesmo preceito, como o Strava, por exemplo, dessa forma, é possível analisar os pontos fortes do programa já existente e implementar no que ainda está em desenvolvimento, além de melhorar os pontos críticos*
