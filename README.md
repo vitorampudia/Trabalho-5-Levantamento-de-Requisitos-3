@@ -59,7 +59,7 @@ de decisões
 
 4. Deve ser possível, pelo menos 3 usuários utilizarem o sistema simulâneamente.
 
-### Descrição do processo adotado para levantar os requisitos:
+### Processos utilizados para o levantamento de requisitos:
 
 *Para capturar as necessidades do sistema, foi-se analisado sua necessidade, além de sua função requisitada pelo cliente, em sua breve explicação. Foram utilizadas métodos de entrevistas para descobrir mais afundo como superar os obstáculos. Além de uma observação direta no meio de trabalho dos lojistas, visando a melhor maneira de otimizar seus trabalhos com o programa.*
 
@@ -110,6 +110,14 @@ saúde e bem-estar
 
 ### Requisitos Não Funcionais:
 
-1. Não deve haver um limite para quanto o programa consegue suportar, em relação à distância percorrida pelo usuário em suas atividades
+1. Não deve haver um limite para quanto o programa consegue suportar, em relação à distância percorrida pelo usuário em suas atividades.
 
-2. 
+2. O programa deve ser reponsivo para mobile.
+
+3. Uma margem de erro, de no máximo 50m para a distância percorrida pelo usuário, em questão de atividade com deslocamento.
+
+4. Máximo de 1 segundo de resposta até que seja computado, em seu perfil, a atividade física realizada pelo usuário.
+
+### Processos utilizados para o levantamento de requisitos:
+
+**
